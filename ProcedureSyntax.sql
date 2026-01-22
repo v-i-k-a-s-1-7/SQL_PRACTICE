@@ -30,3 +30,5 @@ End
 go 
 exec MyPractice 'Coimbatore', '1' -- This is how we pass a Parameter 
 -- to pass two parameters we need to seperate them with a coma.
+
+
